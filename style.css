@@ -1,0 +1,33 @@
+*{
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+
+image{
+    display: flex;
+}
+h1{
+    color: gray;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 7px;
+    border-color: gray;
+    border-width: 1px 3px; 
+    text-shadow: 1px 1px;
+} 
+p{
+    text-align: center;
+    display: flex;
+}
+h2{
+    color: gray;
+    text-decoration: underline 1px;
+    font-style: italic;
+}
+#first{
+    color: tomato;
+}
+
+a{
+    text-decoration: none;
+}
